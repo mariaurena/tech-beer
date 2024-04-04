@@ -2,4 +2,4 @@
 
 Diagrama de la aplicación: 
 
-![mi-ejemplo](https://github.com/mariaurena/tech-beer/assets/58937944/c7737884-ef05-4906-9e2b-c3557fb18c05)
+![mi-ejemplo-fondo](https://github.com/mariaurena/tech-beer/assets/58937944/341682f0-3090-47f9-8776-7ff0021e6068)
