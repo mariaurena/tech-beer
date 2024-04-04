@@ -1,0 +1,29 @@
+{
+  "name": "catalogo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 8083 --strictPort",
+    "build": "vite build",
+    "preview": "vite --preview --port 8083 --strictPort",
+    "serve": "vite preview --port 8083 --strictPort"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "history": "^5.3.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "vite": "^5.0.8"
+  }
+}

@@ -1,0 +1,18 @@
+.catalogo-container {
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%; 
+  height: 55%; 
+  background-color: rgba(236, 0, 0, 0.5); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px; 
+}
+
+.catalogo-content {
+  padding: 20px;
+  font-size: 2em; 
+}
